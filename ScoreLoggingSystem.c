@@ -37,7 +37,7 @@ int main() {
 		}
 	}
 	fclose(stdin);
-	for(i=1;i<=7;i++) printf("%d.%s == %s ,score=%d\n",i,array[i].CHN,array[i].ENG,array[i].score);
+//	for(i=1;i<=7;i++) printf("%d.%s == %s ,score=%d\n",i,array[i].CHN,array[i].ENG,array[i].score);
 	freopen("CON","r",stdin); 
 	i=1;
 	printf("Intializing finished\nstart to log in the scores\n");
