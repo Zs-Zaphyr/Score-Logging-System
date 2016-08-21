@@ -1,4 +1,5 @@
 # Student-Score-Logging-System
 An Project Swift X Project Record Production
 ---------------------------------------------
-Code will be update later this evening 16.7.9
+α1.0 Released!
+sry for a long time waiting!
