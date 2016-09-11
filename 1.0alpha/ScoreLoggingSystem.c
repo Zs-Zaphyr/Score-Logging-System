@@ -1,4 +1,4 @@
-/*
+0.1/*
 Student-Score-Loggine-System α1.0 by Zaphyr
 Log in Chinese Students' scores in shorter English names quickly
 Work Together with Microsoft Excel/Kingsoft WPS
