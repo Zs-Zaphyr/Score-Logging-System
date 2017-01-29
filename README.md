@@ -1,6 +1,7 @@
 # Student-Score-Logging-System
 An Project Swift X Project Record Production
-
+=============================================
+AMBER UPDATE IS COMING SOON
 =============================================
 
 UPDATE-Sep.6
@@ -9,10 +10,10 @@ Each student can have 5 English names now!
 Future Planning:
 1.Multi-Class supported
 2.Multi-inputting Modes supported
-(such as 24MathProblems,
+(such as 24 Problems for Math exams,
 10Selection+Poems+
 Ancient Chinese Reading+Modern Chinese Reading+
-Comprehensive learning+Composition in Chinese,.etc)
+Comprehensive learning+Composition for Chinese exams,.etc)
 3.Modular functions!(easier to maintain)
 
 ---------------------------------------------
