@@ -1,9 +1,11 @@
 # Student-Score-Logging-System
 An Project Swift X Project Record Production
 =============================================
+AMBER UPDATE(beta2.0)released
+for future planning, goto issues.
+---------------------------------------------
 AMBER UPDATE IS COMING SOON
-=============================================
-
+---------------------------------------------
 UPDATE-Sep.6
 alphaα1.1 Released!
 Each student can have 5 English names now!
