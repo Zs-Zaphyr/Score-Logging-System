@@ -1,0 +1,9 @@
+Loading student's information...
+Initialization finished.
+No default class selected.You're logging into class:
+No default grade type selected.You're logging(0=numbers/exam,1=letters/homework):
+Please log the scores now.Format:
+XXX(Name)
+x(score/grade)
+Please rename the "score.csv" or copy the chart into another chart using Excel or you'll lose the new chart.
+Thank you for using SLS.This is a beta version app.Please contact the author/contributor if you have any suggestions.
