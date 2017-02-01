@@ -1,0 +1,15 @@
+Fistful of changes-check them in issues for main changes in Amber update
+大把的新特性-请在issues中查看2.0版AmberUpdate的新变化
+Function:Log student's score by entering their fullname or nickname
+主要功能：使用学生的全名/昵称快速等级学生分数
+-using .csv list for student list and score output
+ 使用.csv记录学生名单和保存学生分数
+-Multiclass supported(require correct format)
+ 多班级支持(需表格格式正确)
+-Multi-language supported(en_us + zh_cn available)
+ 多语言支持(英语以及简体中文可用)
+-log in numbers(scores in the exam) or letters(grades in homework)
+ 录入数字(考试成绩)或字母(作业等级，支持中文)
+-Easter eggs while using Developer Mode
+ 打开调试模式有彩蛋
+-...and more maybe?
