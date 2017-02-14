@@ -1,6 +1,11 @@
 # Student-Score-Logging-System
 An Project Swift X Project Record Production
 =============================================
+SORRY FOR WAITING
+DUE TO 2FA ISSUES
+I LOST MY ACCOUNT
+UPDATE WILL BE COMING SOON
+=============================================
 AMBER UPDATE(beta2.0)released
 for future planning, goto issues.
 ---------------------------------------------
