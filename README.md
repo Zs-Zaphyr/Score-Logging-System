@@ -1,13 +1,13 @@
 # SScore-Logging-System
 
+=============================================
 SORRY FOR WAITING
-=============================================
-DUE TO 2FA ISSUES
-=============================================
-I LOST MY ACCOUNT
-=============================================
+DUE TO 2FA ISSUES I LOST MY ACCOUNT
 UPDATE WILL BE COMING SOON
 =============================================
+Biege Update beta2.1 released.
+Cyan Update Coming Soon.
+---------------------------------------------
 AMBER UPDATE(beta2.0)released
 ---------------------------------------------
 for future planning, goto issues.
