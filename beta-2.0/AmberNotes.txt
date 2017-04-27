@@ -1,7 +1,7 @@
 Fistful of changes-check them in issues for main changes in Amber update
 大把的新特性-请在issues中查看2.0版AmberUpdate的新变化
 Function:Log student's score by entering their fullname or nickname
-主要功能：使用学生的全名/昵称快速等级学生分数
+主要功能：使用学生的全名/昵称快速登记学生分数
 -using .csv list for student list and score output
  使用.csv记录学生名单和保存学生分数
 -Multiclass supported(require correct format)
